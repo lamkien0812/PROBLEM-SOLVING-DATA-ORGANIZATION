@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540">
+  <rect width="1000" height="540" fill="#ffffff"/>
+  <text x="500" y="45" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700">Project Architecture</text>
+  <rect x="40" y="90" width="280" height="170" rx="12" fill="#e8f1ff" stroke="#335caa"/>
+  <text x="180" y="125" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Basic Algorithms</text>
+  <text x="60" y="160" font-family="Arial" font-size="16">- N-th prime</text>
+  <text x="60" y="188" font-family="Arial" font-size="16">- Reverse string</text>
+  <text x="60" y="216" font-family="Arial" font-size="16">- Palindrome</text>
+  <text x="60" y="244" font-family="Arial" font-size="16">- K-th largest</text>
+  <rect x="360" y="90" width="280" height="170" rx="12" fill="#eef8e8" stroke="#3d7f44"/>
+  <text x="500" y="125" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Data Organization</text>
+  <text x="380" y="160" font-family="Arial" font-size="16">- Map Contact Manager</text>
+  <text x="380" y="188" font-family="Arial" font-size="16">- Min Heap Ranking</text>
+  <text x="380" y="216" font-family="Arial" font-size="16">- Map LRU Cache</text>
+  <rect x="680" y="90" width="280" height="170" rx="12" fill="#fff4e6" stroke="#ad6b00"/>
+  <text x="820" y="125" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Optimization</text>
+  <text x="700" y="160" font-family="Arial" font-size="16">- BFS shortest path</text>
+  <text x="700" y="188" font-family="Arial" font-size="16">- A* shortest path</text>
+  <text x="700" y="216" font-family="Arial" font-size="16">- Runtime benchmark</text>
+  <line x1="500" y1="280" x2="500" y2="350" stroke="#444" stroke-width="3"/>
+  <polygon points="492,350 508,350 500,365" fill="#444"/>
+  <rect x="260" y="370" width="480" height="110" rx="12" fill="#f4f4f4" stroke="#555"/>
+  <text x="500" y="408" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Node.js Console + Unit Tests</text>
+  <text x="500" y="440" text-anchor="middle" font-family="Arial" font-size="16">Standard library only, no unnecessary dependencies</text>
+</svg>

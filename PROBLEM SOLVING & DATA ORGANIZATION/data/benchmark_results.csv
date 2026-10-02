@@ -1,0 +1,4 @@
+size,repeats,bfs_avg_ms,bfs_distance,bfs_visited,astar_avg_ms,astar_distance,astar_visited
+30x30,30,1.0864,58,738,0.5818,58,312
+50x50,30,1.9297,98,1983,0.8000,98,683
+70x70,30,3.5162,138,3828,1.0351,138,850

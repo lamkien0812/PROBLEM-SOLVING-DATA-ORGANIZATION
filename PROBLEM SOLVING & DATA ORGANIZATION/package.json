@@ -1,0 +1,14 @@
+{
+  "name": "problem-solving-data-organization-javascript",
+  "version": "1.0.0",
+  "description": "Individual Problem Solving & Data Organization assignment implemented in JavaScript.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node --test",
+    "benchmark": "node benchmark.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

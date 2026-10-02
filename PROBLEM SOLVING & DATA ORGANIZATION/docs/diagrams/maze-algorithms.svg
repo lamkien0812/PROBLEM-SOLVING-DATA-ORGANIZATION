@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460">
+  <rect width="1000" height="460" fill="#fff"/>
+  <text x="500" y="40" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700">BFS vs A* Flow</text>
+  <rect x="60" y="90" width="220" height="80" rx="12" fill="#e8f1ff" stroke="#335caa"/>
+  <text x="170" y="138" text-anchor="middle" font-family="Arial" font-size="20">Same Maze</text>
+  <line x1="280" y1="130" x2="390" y2="130" stroke="#555" stroke-width="3"/>
+  <polygon points="390,122 390,138 405,130" fill="#555"/>
+  <rect x="420" y="65" width="220" height="90" rx="12" fill="#eef8e8" stroke="#3d7f44"/>
+  <text x="530" y="105" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700">BFS</text>
+  <text x="530" y="131" text-anchor="middle" font-family="Arial" font-size="15">Queue + layer search</text>
+  <rect x="420" y="195" width="220" height="90" rx="12" fill="#fff4e6" stroke="#ad6b00"/>
+  <text x="530" y="235" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700">A*</text>
+  <text x="530" y="261" text-anchor="middle" font-family="Arial" font-size="15">Priority queue + heuristic</text>
+  <line x1="640" y1="110" x2="780" y2="110" stroke="#555" stroke-width="3"/>
+  <line x1="640" y1="240" x2="780" y2="240" stroke="#555" stroke-width="3"/>
+  <polygon points="780,102 780,118 795,110" fill="#555"/>
+  <polygon points="780,232 780,248 795,240" fill="#555"/>
+  <rect x="810" y="75" width="140" height="70" rx="12" fill="#f4f4f4" stroke="#555"/>
+  <text x="880" y="117" text-anchor="middle" font-family="Arial" font-size="17">Shortest path</text>
+  <rect x="810" y="205" width="140" height="70" rx="12" fill="#f4f4f4" stroke="#555"/>
+  <text x="880" y="247" text-anchor="middle" font-family="Arial" font-size="17">Shortest path</text>
+  <text x="500" y="355" text-anchor="middle" font-family="Arial" font-size="18">Benchmark: runtime + visited cells</text>
+</svg>
